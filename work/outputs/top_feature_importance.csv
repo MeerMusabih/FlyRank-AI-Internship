@@ -1,0 +1,11 @@
+feature,importance
+numeric__impressions_90d,0.08872313105316938
+numeric__avg_position,0.08779051100788537
+numeric__days_with_impressions,0.07705536690857652
+numeric__content_age_days,0.06269424116256635
+numeric__char_count,0.04626063536139527
+numeric__word_count,0.04546488640340955
+numeric__ctr,0.043675295289451285
+numeric__pageviews_90d,0.041134751353561524
+numeric__scroll_rate,0.04003351674258993
+numeric__days_with_sessions,0.03847633094019458

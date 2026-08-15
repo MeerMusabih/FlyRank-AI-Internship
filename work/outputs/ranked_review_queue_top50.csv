@@ -1,0 +1,51 @@
+priority_rank,content_id,client_id,model_score,priority,reason
+1,content_98aa0aecb1d9,client_8527a891e2,0.9733333333333334,High,Strong search visibility
+2,content_e988c1699454,client_8527a891e2,0.9733333333333334,High,Strong search visibility; Lower average position; Lower CTR
+3,content_2ba626fea4d6,client_8527a891e2,0.9733333333333334,High,Lower CTR; Lower engagement
+4,content_9ac61c04930e,client_8527a891e2,0.9733333333333334,High,Strong search visibility
+5,content_7a6cb4857fe6,client_f369cb89fc,0.95,High,Strong search visibility; Lower CTR
+6,content_500bd3907331,client_4e07408562,0.9466666666666667,High,Strong search visibility; Lower engagement
+7,content_1d0963b56227,client_4e07408562,0.9466666666666667,High,Strong search visibility; Lower average position
+8,content_cb372c0a7708,client_4e07408562,0.9466666666666667,High,Strong search visibility; Lower average position; Lower CTR
+9,content_db74537c5636,client_8527a891e2,0.9433333333333334,High,Lower average position; Lower CTR; Lower engagement
+10,content_35d63627bf3e,client_8527a891e2,0.9433333333333334,High,Strong search visibility; Lower average position; Lower CTR
+11,content_569475b335ab,client_4e07408562,0.94,High,Strong search visibility; Lower average position
+12,content_f55fd2d8ed04,client_4e07408562,0.9366666666666666,High,Strong search visibility; Lower engagement
+13,content_685d3fea9361,client_8527a891e2,0.93,High,Lower CTR
+14,content_b46c62b14582,client_8527a891e2,0.93,High,Strong search visibility; Lower average position
+15,content_bb1edbf0ba6c,client_4e07408562,0.9266666666666666,High,Strong search visibility; Lower average position; Lower CTR
+16,content_3f70f3b5b744,client_f369cb89fc,0.9233333333333333,High,Lower CTR
+17,content_ff3237507101,client_4e07408562,0.9233333333333333,High,Strong search visibility; Lower engagement
+18,content_5c7ccee8cd9e,client_f369cb89fc,0.9233333333333333,High,Strong search visibility; Lower CTR
+19,content_32b4e5a2f630,client_8527a891e2,0.92,High,Strong search visibility; Lower engagement
+20,content_b430766c20c5,client_bdd2d3af3a,0.92,High,Lower CTR; Lower engagement
+21,content_eda627386bb8,client_f369cb89fc,0.9166666666666666,High,Strong search visibility; Lower CTR; Lower engagement
+22,content_36dd471dc460,client_8527a891e2,0.9166666666666666,High,Lower average position; Lower CTR
+23,content_b9b230d52cfa,client_4e07408562,0.9166666666666666,High,Strong search visibility; Lower average position; Lower CTR
+24,content_6677fd6c4ea5,client_4e07408562,0.9166666666666666,High,Strong search visibility; Lower average position; Lower engagement
+25,content_a5a2fbc76336,client_8527a891e2,0.9166666666666666,High,Lower average position; Lower CTR
+26,content_7e3be2e230f5,client_4e07408562,0.9166666666666666,High,Strong search visibility; Lower average position; Lower engagement
+27,content_f6bf66378677,client_f369cb89fc,0.9166666666666666,High,Strong search visibility; Lower CTR
+28,content_829c68e60d13,client_f369cb89fc,0.9166666666666666,High,Lower CTR
+29,content_643b51c0a848,client_8527a891e2,0.9166666666666666,High,Strong search visibility; Lower average position; Lower CTR
+30,content_8f1409b2674e,client_8527a891e2,0.9166666666666666,High,Lower average position; Lower CTR; Lower engagement
+31,content_ec257d803f69,client_4e07408562,0.9133333333333333,High,Strong search visibility; Lower engagement
+32,content_694bc660415b,client_f369cb89fc,0.9133333333333333,High,Strong search visibility; Lower CTR
+33,content_5585a0e7089c,client_8527a891e2,0.9133333333333333,High,Lower average position; Lower CTR; Lower engagement
+34,content_ef81d5fcdf1d,client_f369cb89fc,0.9133333333333333,High,Strong search visibility; Lower average position
+35,content_8ad4a25c246c,client_4e07408562,0.9133333333333333,High,Strong search visibility; Lower average position
+36,content_26d48a980581,client_f369cb89fc,0.9133333333333333,High,Strong search visibility; Lower CTR
+37,content_b23d650634c6,client_f369cb89fc,0.91,High,Lower CTR
+38,content_01118d5030d0,client_4e07408562,0.91,High,Strong search visibility; Lower average position
+39,content_eb3b2c3bbc34,client_f369cb89fc,0.9066666666666666,High,Strong search visibility; Lower CTR
+40,content_8573511e9f28,client_4e07408562,0.9066666666666666,High,Strong search visibility; Lower average position; Lower engagement
+41,content_6607847e4454,client_8527a891e2,0.9033333333333333,High,Strong search visibility; Lower engagement
+42,content_189586cf1186,client_4e07408562,0.9033333333333333,High,Strong search visibility; Lower average position; Lower engagement
+43,content_3b26815717ae,client_f369cb89fc,0.9033333333333333,High,Strong search visibility; Lower average position
+44,content_29884c0f9255,client_8527a891e2,0.9033333333333333,High,Lower average position; Lower CTR
+45,content_4d9f36001f06,client_8527a891e2,0.9,High,Strong search visibility; Lower average position
+46,content_c6bb205d5263,client_f369cb89fc,0.9,High,Strong search visibility; Lower engagement
+47,content_ccf887ee3581,client_4e07408562,0.9,High,Strong search visibility
+48,content_fbbacf50108d,client_8527a891e2,0.9,High,Strong search visibility; Lower engagement
+49,content_aec0a7f1c9f0,client_f369cb89fc,0.9,High,Strong search visibility; Lower average position; Lower CTR
+50,content_711c23a1d649,client_f369cb89fc,0.9,High,Strong search visibility; Lower average position
